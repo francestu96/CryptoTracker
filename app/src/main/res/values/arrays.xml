@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chart_spinner_options">
+        <item>USD</item>
+        <item>BTC</item>
+    </string-array>
+
+    <string-array name="sort_options">
+        <item>Name A-Z</item>
+        <item>Market Cap</item>
+        <item>Price</item>
+        <item>Change 24h</item>
+        <item>Market Cap LH</item>
+        <item>Price LH</item>
+        <item>Change 24h LH</item>
+    </string-array>
+
+</resources>
